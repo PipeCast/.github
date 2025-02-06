@@ -2,7 +2,7 @@
 From the maker of the GoXLR Utility, introducing PipeCast. Join us on [Discord](https://discord.gg/gKVREmSwTh)
 
 ## What is it?
-PipeCast is an attempt to utilise pipewire to bring common functionality present in various audio devices focused on Streaming to Linux. The goal is to bring virtual devices, mixes, submixes and routing to your desktop in an easy to use way.
+PipeCast is an attempt to utilise pipewire to bring common functionality present in various audio devices focused on Broadcasting as Streaming to Linux. The goal is to bring virtual devices, mixes, submixes and routing to your desktop in an easy to use way.
 
 ### Status
 As of right now everything is in a prototype phase. Code is being built to create the nodes, filters, and links prior to it being presented as an API service, but progress is being made:
